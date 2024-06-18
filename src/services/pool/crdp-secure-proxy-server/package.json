@@ -17,6 +17,6 @@
     "exit-on-epipe": "^1.0.1",
     "express": "latest",
     "is-docker": "^3.0.0",
-    "ws": "^7.5.4"
+    "ws": "^7.5.10"
   }
 }
